@@ -7,7 +7,7 @@ A production-ready **CRUD backend application** built using **Node.js, Express, 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Full CRUD operations
 - Clean OOP architecture (Controller → Service → Repository)
