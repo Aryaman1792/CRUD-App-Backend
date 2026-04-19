@@ -12,7 +12,7 @@ A production-ready **CRUD backend application** built using **Node.js, Express, 
 - Full CRUD operations
 - Clean OOP architecture (Controller → Service → Repository)
 - MongoDB with Mongoose
-- Search, filter, pagination
+- Search, filter,pagination
 - Centralized error handling
 - TypeScript support
 - Production & development scripts
